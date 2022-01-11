@@ -1,6 +1,6 @@
 <h1>Hi there! I'm KENTO!</h1>
 
-[Image](/Users/hondataketo/Desktop/code/my_first_github_page/IMG_1924.JPG)
+<img src="/Users/hondataketo/Desktop/code/my_first_github_page/IMG_1924.JPG">
 
 Here is my quick self-introduction.
 
