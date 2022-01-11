@@ -4,20 +4,20 @@ Here is my quick self-introduction.
 
 1.Name：
 
-- KENTO HONDA
+KENTO HONDA
 
-  2.Nationality：
+2.Nationality：
 
-- Japan
+Japan
 
-  3.Hobbies：
+3.Hobbies：
 
-- Listen to music (especially city pop or old music like 1990s,80s,and 70s)
-- Watch dramas on Netflix (K-dramas, Emily in Paris, and so on)
+Listen to music (especially city pop or old music like 1990s,80s,and 70s)
+Watch dramas on Netflix (K-dramas, Emily in Paris, and so on)
 
-  4.Why am I learning development?：
+4.Why am I learning development?：
 
-- To achieve my goals; changing jobs in Canada and acquiring affordable skills to work wherever I want
+To achieve my goals; changing jobs in Canada and acquiring affordable skills to work wherever I want
 
 <!-- My name is KENTO HONDA, a 29-years-old guy from Japan. -->
 
