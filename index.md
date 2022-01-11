@@ -1,6 +1,27 @@
-## Hi there! I'm KENTO HONDA!!
+## Hi there! I'm KENTO!
 
-My name is KENTO HONDA, 29-years-old guy from Japan.
+Here is my quick self-introduction.
+
+1.Name：
+
+- KENTO HONDA
+
+  2.Nationality：
+
+- Japan
+
+  3.Hobbies：
+
+- Listen to music (especially city pop or old music like 1990s,80s,and 70s)
+- Watch dramas on Netflix (K-dramas, Emily in Paris, and so on)
+
+  4.Why am I learning development?：
+
+- To achieve my goals; changing jobs in Canada and acquiring affordable skills to work wherever I want
+
+<!-- My name is KENTO HONDA, a 29-years-old guy from Japan. -->
+
+<!-- During my free time, I like to listen to music (especially city pop or old music like 1990s,80s,and 70s), watch dramas on Netflix (K-dramas, Emily in Paris, and so on), and just kick back and relax at home. -->
 
 <!-- You can use the [editor on GitHub](https://github.com/keento0809/my_first_github_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -38,4 +59,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. --> -->
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
