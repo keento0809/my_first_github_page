@@ -12,6 +12,8 @@
 
 : charter, Georgia, Cambria, "Times New Roman", Times, serif; (p)
 
+--
+
 -font-weight
 
 : 400; (Default)
@@ -19,6 +21,8 @@
 : 500, (Authors’ names)
 
 : 700; (Article’s title,subtitle)
+
+--
 
 -Color
 
@@ -49,10 +53,12 @@
 ・DISCOVER MORE OF WHAT MATTERS TO YOU border-color and p
 #E6E6E6
 
-Get started scroll down 時
+Get started scroll down
 #198917
 
-<Article>
+--
+
+#Article
 
 -Color
 
@@ -80,6 +86,8 @@ Get started scroll down 時
 
 : charter, Georgia, Cambria, "Times New Roman", Times, serif; (p)
 
+--
+
 -font-weight
 
 : 400; (Default)
@@ -87,6 +95,8 @@ Get started scroll down 時
 : 500, (More from Medium)
 
 : 700; (Article’s ,subtitle)
+
+--
 
 -font-size
 
@@ -111,7 +121,9 @@ Get started scroll down 時
 ・Title
 32px, font-weight: 700;
 
-<Profile>
+--
+
+#Profile
 
 -Font-family
 
@@ -124,6 +136,8 @@ Get started scroll down 時
 : 500; (Username on side bar)
 
 : 700; (Username, article title)
+
+--
 
 -Font-size
 
@@ -144,6 +158,8 @@ Get started scroll down 時
 
 ・Username
 42px
+
+--
 
 -Color
 
@@ -171,7 +187,9 @@ Get started scroll down 時
 ・Search icon
 #080808
 
-<Write>
+--
+
+#Write
 
 -Font-family
 
@@ -189,6 +207,8 @@ Get started scroll down 時
 : 500, (More from Medium)
 
 : 700; (Article’s ,hero subtitle,subtitle)
+
+--
 
 -Font-size
 
@@ -230,6 +250,8 @@ Get started scroll down 時
 
 ・Earn money from your writing.
 69px
+
+--
 
 -Color
 
