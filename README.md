@@ -1,1 +1,1 @@
-I just created README.md.
+Details of style-guide on midterm assignment.

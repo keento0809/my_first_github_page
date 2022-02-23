@@ -1,62 +1,247 @@
-<h1>Hi there! I'm KENTO!</h1>
+##CSS properties
 
-Here is my quick self-introduction.
+#Home
 
-1.Name：
+--
 
-KENTO HONDA
+-font-family
 
-2.Nationality：
+: medium-content-sans-serif-font, -apple-system, "system-ui", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif; (Logo)
 
-Japan
+: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif; (Default)
 
-3.Hobbies：
+: charter, Georgia, Cambria, "Times New Roman", Times, serif; (p)
 
-Listen to music (especially city pop or old music like 1990s,80s,and 70s)
-Watch dramas on Netflix (K-dramas, Emily in Paris, and so on)
+-font-weight
 
-4.Why am I learning development?：
+: 400; (Default)
 
-To achieve my goals; changing jobs in Canada and acquiring affordable skills to work wherever I want
+: 500, (Authors’ names)
 
-<!-- My name is KENTO HONDA, a 29-years-old guy from Japan. -->
+: 700; (Article’s title,subtitle)
 
-<!-- During my free time, I like to listen to music (especially city pop or old music like 1990s,80s,and 70s), watch dramas on Netflix (K-dramas, Emily in Paris, and so on), and just kick back and relax at home. -->
+-Color
 
-<!-- You can use the [editor on GitHub](https://github.com/keento0809/my_first_github_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+・Get started button
+#191919
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+・Header and hero background-color
+#C4E2FF
 
-### Markdown
+・Header logo
+#000000
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+・p
+#292929
 
-```markdown
-Syntax highlighted code block
+・Start Writing button, p on hero
+#FFFFFF
 
-# Header 1
+・Numbers on trending on medium
+#E6E6E6
 
-## Header 2
+・date and minutes on trending on medium, stars on article section
+#757575
 
-### Header 3
+・article tag background-color
+#F2F2F2
 
-- Bulleted
-- List
+・DISCOVER MORE OF WHAT MATTERS TO YOU border-color and p
+#E6E6E6
 
-1. Numbered
-2. List
+Get started scroll down 時
+#198917
 
-**Bold** and _Italic_ and `Code` text
+<Article>
 
-[Link](url) and ![Image](src)
-```
+-Color
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+・p, h
+#292929
 
-### Jekyll Themes
+・Follow link
+#198917
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keento0809/my_first_github_page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+・Date and minutes, “Created by the author.”
+#757575
 
-### Support or Contact
+・Get started button, Write on Medium button
+#191919
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
+・Link border-color and p, url
+#E6E6E6
+
+・Get this newsletter button, follow button, Read more from Language explained button
+#198917
+
+-font-family
+
+: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif; (Default)
+
+: charter, Georgia, Cambria, "Times New Roman", Times, serif; (p)
+
+-font-weight
+
+: 400; (Default)
+
+: 500, (More from Medium)
+
+: 700; (Article’s ,subtitle)
+
+-font-size
+
+・Cautions ( By signing up, … )
+11px
+
+・LANGUAGE EXPLAINED, by Language explained, tag (ex. Language)
+13px
+
+・Get started button, Published in Language explained, date and minutes, Write on Medium button
+14px
+
+・Author name, social-media icon
+16px
+
+・p (in article)
+20px
+
+・sub title (ex. What is Wordle?), Sign up for Language explained
+22px
+
+・Title
+32px, font-weight: 700;
+
+<Profile>
+
+-Font-family
+
+:sohne, "Helvetica Neue", Helvetica, Arial, sans-serif; (Default)
+
+-Font-weight
+
+: 400
+
+: 500; (Username on side bar)
+
+: 700; (Username, article title)
+
+-Font-size
+
+・side bar footer
+11px
+
+・Edit profile
+13px
+
+・(Default)
+14px
+
+・Username on side bar
+16px
+
+・Article title
+22px
+
+・Username
+42px
+
+-Color
+
+・Back-ground (Default)
+#FFFFFF
+
+・Upgrade button background-color
+#191919
+
+・Article background-color
+#FAFAFA
+
+・View list
+#292929
+
+・border-color
+#E6E6E6
+
+・Edit profile link color
+#198917
+
+・icons on slide bar, Search
+#757575
+
+・Search icon
+#080808
+
+<Write>
+
+-Font-family
+
+:"Soehne web buch", sans-serif;
+(Default)
+
+: charter, Georgia, Cambria, "Times New Roman", Times, serif; (p)
+
+:"Gt super text book", Georgia, sans-serif; (Hero title, subtitle)
+
+-Font-weight
+
+: 400; (Default)
+
+: 500, (More from Medium)
+
+: 700; (Article’s ,hero subtitle,subtitle)
+
+-Font-size
+
+・Footer nav Bar
+10px
+
+・Start a blog for free
+11px
+
+・nav bar, authors’ occupations, footer p
+15px
+
+・Get started button
+17px
+
+・p
+18px
+
+・Start writing button
+22px
+
+・Authors’ names
+24px
+
+・Audience insights, social connectivity, powerful network, Email subscriptions, Interactive discussions, Custom design
+32px
+
+・Start a blog, Start a publication,
+40px
+
+・Create your space, Find and grow your audience
+51px
+
+・Join a network of curious minds
+56px
+
+・Hero title
+63px
+
+・Earn money from your writing.
+69px
+
+-Color
+
+・Header and hero background-color
+#F24D2D
+
+・Earn money from your writing Background-color
+#34A244
+
+・Create your space Background-color
+#FFD1B8
+
+#000000
+
+#FFFFFF
